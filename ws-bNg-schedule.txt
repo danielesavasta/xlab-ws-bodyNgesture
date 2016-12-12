@@ -1,0 +1,46 @@
+Trial for a schedule
+
+#Opening lecture                                                                45m
+-----------------------------------------------------------------------------------
+- Hacking game devices
+  Wii
+  Kinect
+
+- The emergence of specific tools for prototyping
+  Arduino
+  Asus--
+  Leap motion
+
+- Kinect unpacked
+  cameras
+  ir cameras
+  microphones
+
+- Leap motion unpacked
+  ir cameras
+
+- How the machine "sees"
+- Processing as prototyping platform
+
+
+- Kinect: Introduction to a semi-framework                                      45m
+-----------------------------------------------------------------------------------
+  Experiment #1 - camera view
+  Experiment #2 - 3d cloud (scanning models?)
+  Experiment #3 - amplified skeleton
+  Experiment #3 - microphones?
+
+-----------------------------------------------------------------------------------
+## break                                                                        15m
+-----------------------------------------------------------------------------------
+
+- Leap Motion                                                                   45m
+-----------------------------------------------------------------------------------
+  Experiment #1 - rotating 3d objects
+  Experiment #2 - connecting fingers with generative elastics
+  Experiment #3 - 4 hands...
+
+- Contributed experiment > Time to develop your own installation                 1h
+-----------------------------------------------------------------------------------
+10min :: idea generation
+10min :: eval
